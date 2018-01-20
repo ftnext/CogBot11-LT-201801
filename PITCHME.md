@@ -96,6 +96,12 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### レコメンダーの例
 
+- レストランのレコメンド |
+  - [Microsoft Azure Machine Learning レコメンドを試してみた(データ編)](https://azure-recipe.kc-cloud.jp/2016/03/ml_recommend_data/) |
+  - [Microsoft Azure Machine Learning レコメンドを試してみた(モデル作成編)](https://azure-recipe.kc-cloud.jp/2016/04/ml_recommend_model/) |
+- 映画のレコメンド |
+  - [Azure Machine Learning による推薦システムを構築する手順書](https://www.slideshare.net/masayuki1986/azure-machine-learning-49034325) |
+
 ---
 
 購買データからレコメンダーを作る
