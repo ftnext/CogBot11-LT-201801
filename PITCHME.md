@@ -123,7 +123,10 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ---
 
-購買データからレコメンダーを作る
+### 購買データからレコメンダーを作る
+
+- 購買データから評価値を得る
+- サンプルを元にした実装例
 
 +++
 
