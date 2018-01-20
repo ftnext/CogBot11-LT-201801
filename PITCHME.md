@@ -88,6 +88,12 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### レコメンダー用モジュール
 
+- データの前処理: Split Data
+  - PropertiesのSplitting modeに**Recommender Split**を指定する |
+- 学習: Train Matchbox Recommender |
+- 予測: Score Matchbox Recommender |
+- 評価: Evaluate Matchbox Recommender |
+
 +++
 
 ### レコメンダーに与えるデータ
