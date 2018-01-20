@@ -130,6 +130,12 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 +++
 
+### 購買データから評価値を得る
+
+レストランのサンプルで評価値を2や1に統一したところ失敗
+
+エラーの画像
+
 ---
 
 まとめ
