@@ -1,4 +1,4 @@
-#Azure Machine Learningでレコメンド
+# Azure Machine Learningでレコメンド
 第11回 Cogbot勉強会！(2018/01/23)
 nikkie
 
