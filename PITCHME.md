@@ -65,6 +65,12 @@
 
 +++
 
+### Azure Machine Learning Studioでは
+
+![AML_Studio](/image/AML_Studio.png)
+
+https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG をもとに作成
+
 ---
 
 レコメンダーを作るには
