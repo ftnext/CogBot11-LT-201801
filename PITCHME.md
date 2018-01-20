@@ -10,7 +10,10 @@
 
 ---
 
-前提
+### このLTでは
+
+- Azure Machine Learning Studioについて話します |
+- 主な対象: Azure Machine Learningを触ったことがある方 |
 
 +++
 
