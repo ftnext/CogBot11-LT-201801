@@ -4,9 +4,24 @@
 
 ---
 
-自己紹介
+### nikkie （にっきー）
+
+- ソフトウェアエンジニア2年目
+- 2018/01〜 業務でAzure Machine Learning利用中
+- 趣味: アニメ、Python
+- [Pythonでアニメ画像のモザイクアート作ってみた](https://speakerdeck.com/ftnext/pillow-mosaic-art-nyumon)
 
 +++
+
+### nikkie (\@ftnext)
+
+- [Azure Machine Learningの初歩の初歩](http://nikkie-ftnext.hatenablog.com/entry/2017/12/31/230251)
+- [Azure Machine Learningの初歩](https://qiita.com/ftnext/items/5852d142050b960b2777)
+- [Azure Machine Learningで「最適なアルゴリズムを選択する」には](https://qiita.com/ftnext/items/94d220a5e6c50b43e478)
+
++++
+
+### 質問・指摘お待ちしています
 
 ---
 
