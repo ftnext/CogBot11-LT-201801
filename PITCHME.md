@@ -35,7 +35,7 @@
 
 ### Azure Machine Learningでレコメンド
 
-- このLTではレコメンドシステムを<br><span style="color:#ff0000">レコメンダー</span>と呼びます
+- このLTではレコメンドシステムを<br><span class="red-char">レコメンダー</span>と呼びます
 - Azure Machine Learning Studioでレコメンダーを作る方法を話します |
 - Azure Machine Learningを触ったことがある方<br>向けです |
 

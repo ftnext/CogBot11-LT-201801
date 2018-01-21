@@ -12,3 +12,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.red-char {
+  color: #ff0000;
+}
