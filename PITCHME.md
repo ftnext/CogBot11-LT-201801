@@ -208,9 +208,9 @@ Azure AI Galleryに<br>購買履歴を使った事例がないか検索
 
 ### まとめ
 
-- Azure Machine Learningでレコメンダーを<br>作るには、専用モジュールを使う |
-- レコメンダーの学習には ユーザID - アイテムID <br>- 評価値 の形式のデータが必須 |
-- 評価値として購入回数を用いることで、<br>購買履歴からレコメンダーを作成できる |
+- Azure Machine Learningでレコメンダーを<br>作るには、<span class="red-char">専用モジュール</span>を使う |
+- レコメンダーの学習には <span class="red-char">ユーザID - アイテムID <br>- 評価値</span> の形式のデータが必須 |
+- <span class="red-char">評価値として購入回数を用いる</span>ことで、<br>購買履歴からレコメンダーを作成できる |
 
 +++
 
