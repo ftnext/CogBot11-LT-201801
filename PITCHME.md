@@ -214,7 +214,7 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 
 +++
 
-### サンプルを元にした実装例
+### サンプルを元にした実装例<br>Scoreモジュールの出力
 
 ![scored_dataset](image/scored_dataset.png)
 
