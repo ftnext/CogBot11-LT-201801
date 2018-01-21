@@ -1,4 +1,4 @@
-# <span style="text-transform:none">Azure Machine Learning</span>で<br>レコメンド
+# Azure Machine Learningで<br>レコメンド
 #### 第11回 Cogbot勉強会！(2018/01/23)
 #### nikkie
 
