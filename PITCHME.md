@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 - レコメンダーでできること
 - レコメンダー用モジュール
-- レコメンダーに与えるデータ
+- レコメンダーの学習に使うデータ
 - レコメンダーの例
 
 +++
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 +++
 
-### レコメンダーに与えるデータ
+### レコメンダーの学習に使うデータ
 
 - 評価データ(学習に必須)
   - ユーザID - アイテムID - 評価値 の形式 |
