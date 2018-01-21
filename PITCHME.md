@@ -260,3 +260,5 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 +++
 
 ご清聴ありがとうございました
+
+質問・指摘は@ftnextまでいただけると大変ありがたいです。
