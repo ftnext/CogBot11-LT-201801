@@ -7,3 +7,8 @@
   text-transform: none;
   word-wrap: break-word;
 }
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
