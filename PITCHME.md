@@ -224,6 +224,12 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 
 ### サンプルを元にした実装例
 
+![scored_dataset](image/scored_dataset.png)
+
++++
+
+### サンプルを元にした実装例
+
 - 購入回数を評価値とみなして評価データを用意 |
 - ユーザの属性データは購買データから抽出 |
 - アイテムの属性データも購買データから抽出 |
