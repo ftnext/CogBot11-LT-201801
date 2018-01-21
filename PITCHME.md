@@ -200,41 +200,17 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 
 +++?image=image/recommend_sample-1.png&size=auto 90%
 
-+++
++++?image=image/recommend_sample-2.png&size=auto 90%
 
-### サンプルを元にした実装例
++++?image=image/recommend_sample-3.png&size=auto 90%
 
-![recommend_sample-2](image/recommend_sample-2.png)
++++?image=image/recommend_sample-4.png&size=auto 90%
 
-+++
++++?image=image/recommend_sample-5.png&size=auto 90%
 
-### サンプルを元にした実装例
++++?image=image/recommend_sample-6.png&size=auto 90%
 
-![recommend_sample-3](image/recommend_sample-3.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-4](image/recommend_sample-4.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-5](image/recommend_sample-5.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-6](image/recommend_sample-6.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-7](image/recommend_sample-7.png)
++++?image=image/recommend_sample-7.png&size=auto 90%
 
 +++
 
