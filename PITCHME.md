@@ -140,6 +140,15 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### 購買データから評価値を得る
 
+- 評価値を固定してみる:「購入者は買った商品を星1と評価した」
+- レストランのサンプルのデータを加工し、実験
+
+![same_rating_data](image/same_rating_data.png)
+
++++
+
+### 購買データから評価値を得る
+
 レストランのサンプルで評価値を2や1に統一したところ失敗
 
 エラーの画像
