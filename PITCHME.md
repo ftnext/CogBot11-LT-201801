@@ -198,7 +198,7 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 
 ### サンプルを元にした実装例
 
-![recommend_sample-1](image/recommend_sample-1.png)
+---?image=image/recommend_sample-1.png
 
 +++
 
