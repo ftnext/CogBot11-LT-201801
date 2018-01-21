@@ -143,7 +143,14 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 Azure AI Galleryに購買データを使った事例がないか検索
 
-TODO: リンクを追加する
++++
+
+### 購買データから評価値を得る
+
+Azure AI Galleryに購買データを使った事例がないか検索
+https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
+
+![gallery_sample](image/gallery_sample.png)
 
 +++
 
