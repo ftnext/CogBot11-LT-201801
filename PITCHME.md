@@ -48,42 +48,33 @@
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-2](/image/AML_Basic-2.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-3](/image/AML_Basic-3.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-4](/image/AML_Basic-4.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-5](/image/AML_Basic-5.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
 
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-6](/image/AML_Basic-6.png)
-
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
 
 +++
 
