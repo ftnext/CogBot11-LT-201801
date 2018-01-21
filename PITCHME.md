@@ -135,6 +135,8 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 購買データ: 「誰がどの商品を買った」というデータ
 
+学習に必要なのは「誰がどの商品を星いくつと評価した」というデータ |
+
 +++
 
 ### 購買データから評価値を得る
