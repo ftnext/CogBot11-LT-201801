@@ -216,6 +216,6 @@ Azure AI Galleryに<br>購買履歴を使った事例がないか検索
 
 ### ご清聴ありがとうございました
 
-質問・指摘がありましたら、@ftnextまでお願いします
+質問・指摘がありましたら、<br>@ftnextまでお願いします
 
 LTスライド: https://gitpitch.com/ftnext/CogBot11-LT-201801
