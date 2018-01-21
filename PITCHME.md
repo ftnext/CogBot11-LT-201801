@@ -10,11 +10,11 @@
 
 ---
 
-### このLTでは
+### Azure Machine Learningでレコメンド
 
-- Azure Machine Learning Studioについて話します |
-- 主な対象: Azure Machine Learningを触ったことがある方 |
 - このLTではレコメンドシステムをレコメンダーと呼びます
+- Azure Machine Learning Studioでレコメンダーを作る方法を話します |
+- Azure Machine Learningを触ったことがある方向けです |
 
 +++
 
