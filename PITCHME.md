@@ -35,65 +35,51 @@
 
 ### Azure Machine Learningでレコメンド
 
-- このLTではレコメンドシステムをレコメンダーと呼びます
+- このLTではレコメンドシステムを<br><span class="red-char">レコメンダー</span>と呼びます
 - Azure Machine Learning Studioでレコメンダーを作る方法を話します |
-- Azure Machine Learningを触ったことがある方向けです |
+- Azure Machine Learningを触ったことがある方<br>向けです |
 
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-1](/image/AML_Basic-1.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-2](/image/AML_Basic-2.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-3](/image/AML_Basic-3.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-4](/image/AML_Basic-4.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-5](/image/AML_Basic-5.png)
 
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
-
 +++
 
 ### Azure Machine Learningの流れ
-
+<span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-6](/image/AML_Basic-6.png)
-
-[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次
 
 +++
 
 ### Azure Machine Learning Studioでは
-
+<span style="font-size:small">https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG をもとに作成</span>
 ![AML_Studio](/image/AML_Studio.png)
-
-https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG をもとに作成
 
 ---
 
@@ -108,7 +94,7 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### レコメンダーでできること
 
-- あるユーザに対してアイテムをレコメンドする
+- <span class="red-char">あるユーザに対してアイテムをレコメンドする</span>
 - あるユーザのあるアイテムへの評価値を予測する
 - あるユーザに関係のあるユーザを見つける
 - あるアイテムに関係のあるアイテムを見つける
@@ -149,14 +135,14 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### 購買履歴から評価値を得る
 
-- 購買履歴: 「誰がどの商品を買った」というデータ
-- 学習に必要なのは「誰がどの商品を星いくつと評価した」というデータ |
+- 購買履歴:<br>「誰がどの商品を買った」というデータ
+- 学習に必要なのは「誰がどの商品を<br>星いくつと評価した」というデータ |
 
 +++
 
 ### 購買履歴から評価値を得る
 
-- 評価値を固定してみる:「購入者は買った商品を星1と評価した」
+- 評価値を固定してみる:<br>「購入者は買った商品を星1と評価した」
 - レストランのサンプルのデータを加工し、実験
 
 ![same_rating_data](image/same_rating_data.png)
@@ -174,14 +160,14 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### 購買履歴から評価値を得る
 
-Azure AI Galleryに購買履歴を使った事例がないか検索
+Azure AI Galleryに<br>購買履歴を使った事例がないか検索
 
 +++
 
 ### 購買履歴から評価値を得る
 
-Azure AI Galleryに購買履歴を使った事例がないか検索
-https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
+購買履歴を使った事例<br>
+<span style="font-size:medium">https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3</span>
 
 ![gallery_sample](image/gallery_sample.png)
 
@@ -190,55 +176,31 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 ### 購買履歴から評価値を得る
 
 - 購入回数を評価値とみなして評価データを用意 |
-  - あるユーザが同じ商品を3回買っていたら、その商品への評価は3となる |
-  - 学習に使う評価値はほとんどが1だが、1より大きい値もわずかに含まれる |
+  - あるユーザが同じ商品を3回買っていたら、<br>その商品への評価は3となる |
+  - 学習に使う評価値はほとんどが1だが、<br>1より大きい値もわずかに含まれる |
 - ユーザの属性データ、アイテムの属性データは購買履歴から抽出できる |
 
 ---
 
 ### サンプルを元にした実装例
 
-![recommend_sample-1](image/recommend_sample-1.png)
++++?image=image/recommend_sample-1.png&size=auto 90%
+
++++?image=image/recommend_sample-2.png&size=auto 90%
+
++++?image=image/recommend_sample-3.png&size=auto 90%
+
++++?image=image/recommend_sample-4.png&size=auto 90%
+
++++?image=image/recommend_sample-5.png&size=auto 90%
+
++++?image=image/recommend_sample-6.png&size=auto 90%
+
++++?image=image/recommend_sample-7.png&size=auto 90%
 
 +++
 
-### サンプルを元にした実装例
-
-![recommend_sample-2](image/recommend_sample-2.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-3](image/recommend_sample-3.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-4](image/recommend_sample-4.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-5](image/recommend_sample-5.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-6](image/recommend_sample-6.png)
-
-+++
-
-### サンプルを元にした実装例
-
-![recommend_sample-7](image/recommend_sample-7.png)
-
-+++
-
-### サンプルを元にした実装例
+### サンプルを元にした実装例<br>Scoreモジュールの出力
 
 ![scored_dataset](image/scored_dataset.png)
 
@@ -246,14 +208,14 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 
 ### まとめ
 
-- Azure Machine Learningでレコメンダーを作るには、専用モジュールを使う |
-- レコメンダーの学習には ユーザID - アイテムID - 評価値 の形式のデータが必須 |
-- 評価値として購入回数を用いることで、購買履歴からレコメンダーを作成できる |
+- Azure Machine Learningでレコメンダーを<br>作るには、専用モジュールを使う |
+- レコメンダーの学習には ユーザID - アイテムID <br>- 評価値 の形式のデータが必須 |
+- 評価値として購入回数を用いることで、<br>購買履歴からレコメンダーを作成できる |
 
 +++
 
 ### ご清聴ありがとうございました
 
-質問・指摘がありましたら、@ftnextまでお願いします
+質問・指摘がありましたら、<br>@ftnextまでお願いします
 
 LTスライド: https://gitpitch.com/ftnext/CogBot11-LT-201801
