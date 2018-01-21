@@ -42,7 +42,6 @@
 +++
 
 ### Azure Machine Learningの流れ
-
 <span style="font-size:medium">[TechSummit 2017 Japan : Hands on Learning 資料](https://github.com/ayako/TS17-AzureMLHoL/blob/master/TS17_AzureMLHoL_UWP.pdf) 目次</span>
 ![AML_Basic-1](/image/AML_Basic-1.png)
 
