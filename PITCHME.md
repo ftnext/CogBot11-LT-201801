@@ -149,9 +149,10 @@ https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG �
 
 ### 購買データから評価値を得る
 
-レストランのサンプルで評価値を2や1に統一したところ失敗
+- レストランのサンプルのデータを加工し、実験 → 失敗
+- 評価値がすべて同じためにエラーが出るらしい
 
-エラーの画像
+![same_rating_error](image/same_rating_error.png)
 
 +++
 
