@@ -79,10 +79,8 @@
 +++
 
 ### Azure Machine Learning Studioでは
-
+<span style="font-size:small">https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG をもとに作成</span>
 ![AML_Studio](/image/AML_Studio.png)
-
-https://raw.githubusercontent.com/ayako/TS17-AzureMLHoL/master/media/4-07.PNG をもとに作成
 
 ---
 
