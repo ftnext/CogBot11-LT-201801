@@ -166,7 +166,7 @@ Azure AI Galleryに購買履歴を使った事例がないか検索
 
 ### 購買履歴から評価値を得る
 
-Azure AI Galleryに購買履歴を使った事例がないか検索<br>
+購買履歴を使った事例<br>
 <span style="font-size:medium">https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3</span>
 
 ![gallery_sample](image/gallery_sample.png)
