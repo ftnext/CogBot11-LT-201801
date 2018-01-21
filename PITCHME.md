@@ -259,6 +259,8 @@ https://gallery.cortanaintelligence.com/Experiment/ProductRecfromMDLBranch-3
 
 +++
 
-ご清聴ありがとうございました
+### ご清聴ありがとうございました
 
-質問・指摘は@ftnextまでいただけると大変ありがたいです。
+質問・指摘がありましたら、@ftnextまでお願いします
+
+LTスライド: https://gitpitch.com/ftnext/CogBot11-LT-201801
